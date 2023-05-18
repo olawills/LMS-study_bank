@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "611285769883",
+    "project_id": "studybank-873e8",
+    "storage_bucket": "studybank-873e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611285769883:android:63fab05f6ee2a42c87303e",
+        "android_client_info": {
+          "package_name": "com.example.study_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611285769883-bs4ipd0p7hbo3o2mvhh1r4c5u6eols16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.study_bank",
+            "certificate_hash": "29cde93e31e3171091c35ed06de88e3d3a4b88c6"
+          }
+        },
+        {
+          "client_id": "611285769883-kir6u74vtl91ep7dj0nv4qe51mkb68s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.study_bank",
+            "certificate_hash": "60fc4184a26e5584d3f8a39ea87ebcafddc94ee2"
+          }
+        },
+        {
+          "client_id": "611285769883-aigrl0ucqlpiet3o4g0a9akgm6btbppf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh_Gsl21CMfo1PvaAucatpbl-HgPawxR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611285769883-aigrl0ucqlpiet3o4g0a9akgm6btbppf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "611285769883-221lhpvr63pp9llnksfeeaeidkfkcq0t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studyBank"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
